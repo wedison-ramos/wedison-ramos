@@ -2,7 +2,7 @@
 
 <h2 align="center"><i>Ｓｏｂｒｅ</i></h2>
 <div align="center">
-  <img align="right" src="./images/emanuel-forte-1.png" width="313px" height="400px" alt="">
+  
 
   <ul align="left" style="padding-right: 340px;">
     <li> Tecnologia, café e códigos. </li><br>
