@@ -102,11 +102,11 @@
 <div>
 <h2 text-align="center">📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</h2>
   <br><br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emanuelbarbozafortes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelbarbozafortes&layout=compact&langs_count=6&theme=transparent&hide_border=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wedisonramos&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedisonramos&layout=compact&langs_count=6&theme=transparent&hide_border=true">
 
-  <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-stats.vercel.app/api?username=emanuelbarbozafortes&show_icons=true&custom_title=Emanuel's%20Github%20Stats&theme=transparent&hide_border=true">
-  <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelbarbozafortes&theme=transparent&hide_border=true">
+  <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-stats.vercel.app/api?username=wedisonramos&show_icons=true&custom_title=Emanuel's%20Github%20Stats&theme=transparent&hide_border=true">
+  <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=wedisonramos&theme=transparent&hide_border=true">
   <br><br>
 </div>
 <br>
