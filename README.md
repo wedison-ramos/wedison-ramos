@@ -1,45 +1,25 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=825cff&height=120&section=header"/>
+## Meu Github
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=825cff&vCenter=true&center=true&width=1000&lines=Iago+Roberto;Information+Systems+Student;Federal+University+of+Piau%C3%AD;Software+Developer)](https://git.io/typing-svg)
-
-> **Electrical Technician - IFPI, Campus Picos**
-
-> **Bachelor's Degree in Information Systems - UFPI, CSHNB**
-
-## Skills <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
-
-> **Respectively: C, Python, Flutter, Dart, HTML, CSS, JavaScript, Visual Studio Code, Git**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,flutter,dart,html,css,js,vscode,git" />
-  </a>
-</p>
-
-## About Me <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
-
-<img align="left" height="320em" src="https://raw.githubusercontent.com/gist/IagoraNz/38303f3586ca3d5909fae36466c85407/raw/9dff4444743a0d6de503bb59271b94f118af6ad2/githubcard.svg"/>
-
-***Name:*** Iago Roberto
-
-**From:** Piauí, Brazil
-
-***Age:*** 20
-
-***Interests:*** Back-end, Full-Stack, Artificial Intelligence, Distributed Systems, Mobile Development and others
-
-***Language of highest affinity:*** C
-
-***Preferred language:*** Dart/Flutter
-
-***College period:*** 3/8
-
-***Acting:*** In university research labs
-
-## Statistic <img align="center" height="30em" src="https://raw.githubusercontent.com/gist/IagoraNz/c870bc1b287acc740d77c329550f99f0/raw/6c1fd0fb50e06e05f410e8a264acf1ccc625430a/img.svg"/>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IagoraNZ&show_icons=true&count_private=true&hide_border=true&title_color=825cff&icon_color=825cff&text_color=ffffff&bg_color=0d1117" alt="Iago Roberto Github Stats" />
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoraNz&layout=compact&hide_border=true&title_color=825cff&text_color=ffffff&bg_color=0d1117" />
+ <div>
+   <a href="https://github.com/wedison-ramos">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wedison-ramos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedison-ramos&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=825cff&height=120&section=footer"/>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
+ 
+### 
+ 
+<div> 
+  <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
