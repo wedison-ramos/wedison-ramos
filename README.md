@@ -99,21 +99,16 @@
 </div>
 <br><br><br><br><br><br>
 
-<h2 align="center">
-<details open>
-  <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
-  <br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GugaS1lva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GugaS1lva&layout=compact&langs_count=6&theme=tokyonight">
-
-  <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-stats.vercel.app/api?username=GugaS1lva&show_icons=true&custom_title=GugaS1lva's%20Github%20Stats&theme=tokyonight&hide_border=true">
-  <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=GugaS1lva&theme=tokyonight&hide_border=true">
+<div>
+<h2 text-align="center">📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</h2>
   <br><br>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emanuelbarbozafortes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelbarbozafortes&layout=compact&langs_count=6&theme=transparent&hide_border=true">
 
-  ![Snake animation](https://github.com/gugas1lva/gugas1lva/blob/output/github-snake-dark.svg)
+  <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-stats.vercel.app/api?username=emanuelbarbozafortes&show_icons=true&custom_title=Emanuel's%20Github%20Stats&theme=transparent&hide_border=true">
+  <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelbarbozafortes&theme=transparent&hide_border=true">
   <br><br>
-</details>
+</div>
 <br>
 
-<img src="./images/heart.gif" alt="" height="40px" width="40px" />
-<img  src="https://img.shields.io/github/license/GugaS1lva/GugaS1lva?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=70A5FD" alt="" height="40px" />
+![profile-3d"](profile-3d-contrib/profile-night-view.svg)
