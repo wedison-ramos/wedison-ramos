@@ -4,7 +4,7 @@
 <div align="center">
   
 
-  <ul align="left" style="padding-right: 340px;">
+  
     <li> Tecnologia, café e códigos. </li><br>
     <li> Sou um Desenvolvedor Front-end Júnior e estou constantemente buscando evoluir na área de tecnologia. .</li><br>
     <li>Meu objetivo em um futuro próximo, é me tornar um desenvolvedor completo (Frontend, Backend e Mobile).</li><br>
@@ -14,8 +14,8 @@
   <br><br>
 
 <h2 align="center"><i>Ｔｅｃｎｏｌｏｇｉａ s</i></h2>
-<img align="left" height="275px" width="275px" alt="" src="./images/emanuel-fortes-3.png" />
-<table align="right" height="290px" width="1000px" style="width: 650px; padding: 5px 0px 5px 5px;">
+
+
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="60px" alt=" icon"/><br>
@@ -89,7 +89,7 @@
 <br><br><br><br>
 
 <h2 align="center"><i>Ｃｏｎｔａｔｏ</i> </h2>
-<img align="left" width="180px" height="220px" src="./images/emanuel-fortes-2.jpg" alt=" coding">
+
 <br><br>
 <div aling="right">
 <a href="https://www.instagram.com/wsilva519/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
