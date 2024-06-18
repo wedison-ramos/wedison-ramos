@@ -5,10 +5,10 @@
   <img align="right" src="./images/emanuel-forte-1.png" width="313px" height="400px" alt="">
 
   <ul align="left" style="padding-right: 340px;">
-    <li> Tecnologia, Bateria🥁 e códigos. </li><br>
-    <li> Sou um Desenvolvedor Front-end Júnior e estou constantemente buscando evoluir na área de tecnologia. Anteriormente, dediquei-me ao estudo da música moderna, sendo baterista. A música, com sua disciplina, me preparou para me envolver em qualquer âmbito. Devido ao meu amor pela tecnologia, desenvolvi um interesse inicial em programação web.</li><br>
-    <li>Meu próximo objetivo é dominar todas as tecnologias e me tornar um desenvolvedor completo.</li><br>
-   <li>Critão ⛪</li><br>
+    <li> Tecnologia, café e códigos. </li><br>
+    <li> Sou um Desenvolvedor Front-end Júnior e estou constantemente buscando evoluir na área de tecnologia. .</li><br>
+    <li>Meu próximo objetivo é dominar todas as tecnologias e me tornar um desenvolvedor completo (Frontend, Backend e Mobile).</li><br>
+   <li>Hiperfoco</li><br>
     <li><i> "For God so loved the world that he gave his only Son, that whoever believes in him should not perish but have eternal life." </i></li><br>
   </ul>
   <br><br>
