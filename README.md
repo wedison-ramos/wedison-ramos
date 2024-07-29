@@ -1,6 +1,6 @@
 
 
-<h2 align="center"><i>Ｓｏｂｒｅ</i></h2>
+<h2 align="center"><i>Sobre</i></h2>
 <div align="center">
   <img align="right" src="./images/emanuel-forte-1.png" width="313px" height="400px" alt="">
 
@@ -13,7 +13,7 @@
   </ul>
   <br><br>
 
-<h2 align="center"><i>Ｔｅｃｎｏｌｏｇｉａ s</i></h2>
+<h2 align="center"><i>Tecnologia s</i></h2>
 <img align="left" height="275px" width="275px" alt="" src="./images/emanuel-fortes-3.png" />
 <table align="right" height="290px" width="1000px" style="width: 650px; padding: 5px 0px 5px 5px;">
   <tr>
@@ -88,7 +88,7 @@
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br>
 
-<h2 align="center"><i>Ｃｏｎｔａｔｏ</i> </h2>
+<h2 align="center"><i>Ｃontato</i> </h2>
 <img align="left" width="180px" height="220px" src="./images/emanuel-fortes-2.jpg" alt=" coding">
 <br><br>
 <div aling="right">
