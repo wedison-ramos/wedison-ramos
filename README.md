@@ -13,7 +13,7 @@
   </ul>
   <br><br>
 
-<h2 align="center"><i>Tecnologia s</i></h2>
+<h2 align="center"><i>Tecnologia</i></h2>
 <img align="left" height="275px" width="275px" alt="" src="./images/emanuel-fortes-3.png" />
 <table align="right" height="290px" width="1000px" style="width: 650px; padding: 5px 0px 5px 5px;">
   <tr>
